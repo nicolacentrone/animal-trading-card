@@ -1,13 +1,12 @@
-Nicola Centrone
-Date: 28/12/17
-
 # Animal Trading Card
+
+## Description
 Translation of a given mockup in HTML and CSS code to reproduce a trading card of my favorite animal.
 
-### License
+## License
 MIT License
 
-Copyright (c) [year] [fullname]
+Copyright (c) [2018] [Nicola Centrone]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
